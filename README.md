@@ -1,4 +1,5 @@
-# Official Dart Client for [Stream Activity Feeds](https://getstream.io/activity-feeds/)
+# Copy of Official Dart Client for [Stream Activity Feeds](https://getstream.io/activity-feeds/)
+> NOTE: this repo is created as they have stopped maintaining their package so we upgrade it to flutter version 3.22.2 to use it
 
 > The official Dart client for Stream Activity Feeds
 > a service for building feed applications. This library can be used on any Dart project 
